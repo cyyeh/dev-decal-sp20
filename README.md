@@ -10,7 +10,9 @@ The course website and slides can be found [here](https://blockchain.berkeley.ed
 
 Update (May, 2020): Solutions of all homework has been posted here as well.
 
-
+Lecture Videos:
+- [2021 version](https://www.youtube.com/playlist?list=PLSONl1AVlZNWJVixT2vwY9-6O7kgM4het)
+- [2020 version](https://www.youtube.com/playlist?list=PLSONl1AVlZNVkTHHSCN1Ql47wYDYOycAb)
 
 #### Goal
 
